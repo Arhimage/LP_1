@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="ObjectMeshStatic" id="1618435897" name="ball">
+		<streaming_mode_vram>0</streaming_mode_vram>
+		<streaming_mode_ram>0</streaming_mode_ram>
+		<mesh_name>guid://ccd77b809b252fbae8c68ea19c9afb589e5f5a29</mesh_name>
+		<surface name="sphere" intersection="1" intersection_mask="0x3" material="6ac4fe10556627091f754773f0c017b418016de8"/>
+		<body type="BodyRigid" id="791689793" frozen="0">
+			<shape type="ShapeSphere" id="265708907">
+				<radius>0.150000021</radius>
+			</shape>
+		</body>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+	</node>
+</nodes>

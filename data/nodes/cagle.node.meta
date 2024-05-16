@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>e02dc22ef8f2c1242afcafe735c28ab1843486f9</guid>
+	<type>node</type>
+	<hash>53e76d88</hash>
+	<runtimes>
+		<runtime id="e02dc22ef8f2c1242afcafe735c28ab1843486f9" name="cagle.node" link="0" type="3"/>
+	</runtimes>
+</asset>

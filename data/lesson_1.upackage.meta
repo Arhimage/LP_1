@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>072cbbaa63acf8c4b67101131f37fc0789627c85</guid>
+	<type>package</type>
+	<hash>2a58eea2</hash>
+	<runtimes>
+		<runtime id="072cbbaa63acf8c4b67101131f37fc0789627c85" name="lesson_1.upackage" link="0"/>
+	</runtimes>
+</asset>

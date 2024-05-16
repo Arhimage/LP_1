@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="ObjectMeshStatic" id="1530184028" name="cagle">
+		<streaming_mode_vram>0</streaming_mode_vram>
+		<streaming_mode_ram>0</streaming_mode_ram>
+		<mesh_name>guid://26255a5292ad1223f7c3c0dbdedddccbc1c03a8d</mesh_name>
+		<surface name="cylinder" intersection="1" material="0492576263acfa9da960dafdde496ae36ebc123c"/>
+		<body type="BodyRigid" id="598028129" frozen="0">
+			<shape type="ShapeCylinder" id="21553035">
+				<radius>0.119999997</radius>
+				<height>2</height>
+			</shape>
+		</body>
+		<transform>0.99999994 0 0 0.0 0 1 0 0.0 0 0 0.99999994 0.0 0 0 0 1.0</transform>
+	</node>
+</nodes>

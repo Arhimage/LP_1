@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="GameController" guid="9825f12c1b49caaf96a33f1f36d4926585a63fd6" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="_floor" type="node" title="Игровой пол"/>
+	<parameter name="_ball" type="node" title="Шар для боулинга"/>
+	<parameter name="_pokeDistance" type="float" title="Расстояние пересечения">100</parameter>
+	<parameter name="_mask" type="mask" title="Маска пересчеения" flags="intersection">0</parameter>
+	<parameter name="_cagleTemplate" type="file" title="Образец кегли" filter=".node"/>
+	<parameter name="_spawnPoint" type="node" title="Точка появления"/>
+	<parameter name="_axis" type="switch" title="Направление появления" items="X,Y,NX,NY">0</parameter>
+	<parameter name="_quantity" type="int" title="Количество" group="Параметры появления" min="1" max="100">10</parameter>
+	<parameter name="_offset" type="vec3" title="Смещение при появлении" group="Параметры появления">0.200000003 0.200000003 1.20000005</parameter>
+</property>
